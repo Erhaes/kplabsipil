@@ -62,8 +62,8 @@
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
                     <!-- <img src="{{ asset('images/research1.jpg') }}" alt="Research 1" class="w-full h-48 object-cover"> -->
                     <div class="p-6">
-                        <h3 class="text-xl font-semibold mb-2">Sustainable Construction Materials</h3>
-                        <p class="text-gray-600 mb-4">Investigation of eco-friendly construction materials for sustainable development.</p>
+                        <h3 class="text-xl font-semibold mb-2">Lorem ipsum dolor sit amet.</h3>
+                        <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi!.</p>
                         <a href="/research" class="text-blue-600 hover:text-blue-800 font-semibold">Learn More →</a>
                     </div>
                 </div>
@@ -72,8 +72,8 @@
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
                     <!-- <img src="{{ asset('images/research2.jpg') }}" alt="Research 2" class="w-full h-48 object-cover"> -->
                     <div class="p-6">
-                        <h3 class="text-xl font-semibold mb-2">Structural Health Monitoring</h3>
-                        <p class="text-gray-600 mb-4">Advanced techniques for monitoring and maintaining structural integrity.</p>
+                        <h3 class="text-xl font-semibold mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h3>
+                        <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi vel ratione adipisci?</p>
                         <a href="/research" class="text-blue-600 hover:text-blue-800 font-semibold">Learn More →</a>
                     </div>
                 </div>
@@ -82,8 +82,8 @@
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
                     <!-- <img src="{{ asset('images/research3.jpg') }}" alt="Research 3" class="w-full h-48 object-cover"> -->
                     <div class="p-6">
-                        <h3 class="text-xl font-semibold mb-2">Geotechnical Engineering</h3>
-                        <p class="text-gray-600 mb-4">Innovative solutions for soil mechanics and foundation engineering.</p>
+                        <h3 class="text-xl font-semibold mb-2">Lorem, ipsum dolor sit amet consectetur adipisicing.</h3>
+                        <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, sequi?</p>
                         <a href="/research" class="text-blue-600 hover:text-blue-800 font-semibold">Learn More →</a>
                     </div>
                 </div>
