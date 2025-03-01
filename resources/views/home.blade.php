@@ -4,6 +4,8 @@
 @section('title', 'Home')
 
 @section('content')
+
+    {{-- Versi 1 --}}
 {{-- <div class="pt-16"> <!-- Padding for fixed navbar -->
     <!-- Hero Video Section with Parallax -->
     <div class="relative h-screen w-full overflow-hidden">
@@ -29,6 +31,8 @@
             </div>
         </div>
     </div> --}}
+
+
     <div class="pt-16"> <!-- Padding for fixed navbar -->
         <!-- Hero Video Section with Parallax -->
         <div class="relative h-screen w-full overflow-hidden">
