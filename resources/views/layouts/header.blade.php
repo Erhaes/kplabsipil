@@ -18,7 +18,6 @@
         <div class="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 bg-gray-800 md:bg-transparent border border-gray-700">
                 <li>
-                    {{-- class="block py-2 px-3 bg-transparent rounded md:p-0 text-blue-500"  --}}
                     <a href="/" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
                      md:hover:text-blue-500 md:hover:bg-transparent 
                     @if(Route::currentRouteName() == "home")
@@ -28,18 +27,18 @@
                     @endif">Home</a>
                 </li>
                 <li>
-                    <a href="/about" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
+                    <a href="/profil" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
                      md:hover:text-blue-500 md:hover:bg-transparent 
-                    @if(Route::currentRouteName() == "about")
+                    @if(Route::currentRouteName() == "profil")
                         text-blue-500
                     @else
                         text-white
-                    @endif">About</a>
+                    @endif">Profil</a>
                 </li>
                 <li>
-                    <a href="/facilities" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
+                    <a href="/facilitas" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
                     md:hover:text-blue-500 md:hover:bg-transparent 
-                   @if(Route::currentRouteName() == "about")
+                   @if(Route::currentRouteName() == "facilitas")
                        text-blue-500
                    @else
                        text-white
@@ -55,18 +54,18 @@
                    @endif">Penelitian</a>
                 </li>
                 <li>
-                    <a href="/labservice" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
+                    <a href="/service" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
                     md:hover:text-blue-500 md:hover:bg-transparent 
-                   @if(Route::currentRouteName() == "labservice")
+                   @if(Route::currentRouteName() == "service")
                        text-blue-500
                    @else
                        text-white
                    @endif">Uji Lab</a>
                 </li>
                 <li>
-                    <a href="/about" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
+                    <a href="/berita" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
                     md:hover:text-blue-500 md:hover:bg-transparent 
-                   @if(Route::currentRouteName() == "about")
+                   @if(Route::currentRouteName() == "berita")
                        text-blue-500
                    @else
                        text-white
