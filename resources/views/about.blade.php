@@ -3,7 +3,7 @@
 @section('title', 'About')
 
 @section('content')
-<div class="pt-16"> <!-- Padding for fixed navbar -->
+<div class="pt-16">
     <section id="about" class="py-20 bg-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid md:grid-cols-2 gap-12 items-center">
@@ -63,12 +63,12 @@
             <div class="grid md:grid-cols-3 gap-8 text-center">
                 <div class="bg-white p-6 rounded-lg shadow-lg">
                     <img src="{{ asset('images/koordinator.jpg') }}" alt="Koordinator Riset" class="rounded-full w-32 h-32 mx-auto mb-4">
-                    <h3 class="text-xl font-semibold">Daplun</h3>
+                    <h3 class="text-xl font-semibold">Lorem, ipsum.</h3>
                     <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg">
                     <img src="{{ asset('images/manajer.jpg') }}" alt="Manajer Operasional" class="rounded-full w-32 h-32 mx-auto mb-4">
-                    <h3 class="text-xl font-semibold">Daplunina</h3>
+                    <h3 class="text-xl font-semibold">Lorem ipsum dolor sit amet.</h3>
                     <p class="text-gray-600">Lorem ipsum dolor sit amet consectetur.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg">
