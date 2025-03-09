@@ -22,10 +22,8 @@
                         class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500">
                         <option value="">Semua Kategori</option>
                         <option value="struktur">Struktur</option>
-                        <option value="geoteknik">Geoteknik</option>
                         <option value="transportasi">Transportasi</option>
                         <option value="hidrolika">Hidrolika</option>
-                        <option value="material">Material</option>
                     </select>
                 </div>
 
@@ -70,19 +68,13 @@
                         <a href="">Analisis Pengaruh Variasi Campuran Abu Sekam Padi Terhadap Kuat Tekan Beton</a>
                     </h2>
                     <div class="flex flex-wrap gap-2 mb-3">
-                        <span class="px-3 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full">Material</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full">Transportasi</span>
                     </div>
                     <div class="text-gray-600 mb-4">
-                        <span class="font-medium">Penulis:</span> Dr. Agus Supriyanto, S.T., M.T., Ir. Bambang Widodo, M.T., Hendra Kusuma, S.T., M.Eng.
+                        <span class="font-medium">Penulis:</span> Penulis 1, Penulis 2, Penulis 3
                     </div>
                     <div class="flex justify-between items-center text-sm text-gray-500">
                         <div>Dipublikasikan: <span class="font-medium">2023</span></div>
-                        <a href="" class="text-blue-600 hover:text-blue-800 font-medium inline-flex items-center">
-                            Lihat Detail
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                            </svg>
-                        </a>
                     </div>
                 </div>
 
@@ -95,16 +87,10 @@
                         <span class="px-3 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full">Hidrolika</span>
                     </div>
                     <div class="text-gray-600 mb-4">
-                        <span class="font-medium">Penulis:</span> Dr. Retno Sulistyowati, S.T., M.T., Prof. Ir. Suhartono, Ph.D., Eka Putri, S.T., M.Sc.
+                        <span class="font-medium">Penulis:</span> Penulis 1, Penulis 2, Penulis 3
                     </div>
                     <div class="flex justify-between items-center text-sm text-gray-500">
                         <div>Dipublikasikan: <span class="font-medium">2022</span></div>
-                        <a href="" class="text-blue-600 hover:text-blue-800 font-medium inline-flex items-center">
-                            Lihat Detail
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                            </svg>
-                        </a>
                     </div>
                 </div>
 
@@ -117,16 +103,10 @@
                         <span class="px-3 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full">Struktur</span>
                     </div>
                     <div class="text-gray-600 mb-4">
-                        <span class="font-medium">Penulis:</span> Prof. Dr. Ir. Ahmad Yusuf, M.Eng., Dr. Dina Kartika, S.T., M.T., Budi Santoso, S.T., M.Eng.
+                        <span class="font-medium">Penulis:</span> Penulis 1, Penulis 2, Penulis 3
                     </div>
                     <div class="flex justify-between items-center text-sm text-gray-500">
                         <div>Dipublikasikan: <span class="font-medium">2024</span></div>
-                        <a href="" class="text-blue-600 hover:text-blue-800 font-medium inline-flex items-center">
-                            Lihat Detail
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                            </svg>
-                        </a>
                     </div>
                 </div>
             </div>

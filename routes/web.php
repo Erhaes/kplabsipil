@@ -5,6 +5,7 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\NewsController;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ResearchController;
+use App\Http\Controllers\FacilitiesController;
 
 
 
@@ -12,7 +13,7 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/profil', [AboutController::class, 'index'])->name('profil');
 
-Route::get('/fasilitas', [AboutController::class, 'index'])->name('fasilitas');
+Route::get('/fasilitas', [FacilitiesController::class, 'index'])->name('fasilitas');
 
 Route::get('/research', [ResearchController::class, 'index'])->name('research');
 

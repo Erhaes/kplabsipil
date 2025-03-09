@@ -36,9 +36,9 @@
                     @endif">Profil</a>
                 </li>
                 <li>
-                    <a href="/facilitas" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
+                    <a href="/fasilitas" class="block py-2 px-3 rounded hover:text-white hover:bg-gray-700 md:border-0 md:p-0
                     md:hover:text-blue-500 md:hover:bg-transparent 
-                   @if(Route::currentRouteName() == "facilitas")
+                   @if(Route::currentRouteName() == "fasilitas")
                        text-blue-500
                    @else
                        text-white
