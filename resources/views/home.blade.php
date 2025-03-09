@@ -48,7 +48,7 @@
                         Build Quality to Bring Dignity
                     </p> --}}
                     <div class="space-x-4">
-                        <a href="/about" class="bg-transparent border-2 border-white hover:bg-white hover:text-black text-white font-bold py-3 px-8 rounded-lg transition duration-300 inline-flex items-center">
+                        <a href="/profil" class="bg-transparent border-2 border-white hover:bg-white hover:text-black text-white font-bold py-3 px-8 rounded-lg transition duration-300 inline-flex items-center">
                             Explore Lab
                         </a>
                         <button id="openVideoModal" class="bg-transparent border-2 border-white hover:bg-white hover:text-black text-white font-bold py-3 px-8 rounded-lg transition duration-300 inline-flex items-center">
@@ -109,7 +109,7 @@
                         </p>
                     </div>
                     <div class="pt-2">
-                        <a href="/about" class="inline-block px-6 py-3 text-white bg-blue-600 rounded-lg shadow hover:bg-blue-700 transition duration-300 text-center">
+                        <a href="/profil" class="inline-block px-6 py-3 text-white bg-blue-600 rounded-lg shadow hover:bg-blue-700 transition duration-300 text-center">
                             Selengkapnya
                         </a>
                     </div>

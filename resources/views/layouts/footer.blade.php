@@ -3,7 +3,7 @@
         <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
                 <a href="/" class="flex items-center">
-                    {{-- <img src="{{ asset('images/logo.png') }}" class="h-16 me-3" alt="Lab Logo" /> --}}
+                    <img src="{{ asset('images/logo_unsoed.png') }}" class="h-16 me-3" alt="Lab Logo" />
                     <div class="flex flex-col">
                         <span class="text-2xl font-semibold whitespace-nowrap dark:text-white">Laboratorium Teknik Sipil</span>
                         <span class="text-sm whitespace-nowrap dark:text-white">Universitas Jenderal Soedirman</span>

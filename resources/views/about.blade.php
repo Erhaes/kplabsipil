@@ -17,7 +17,7 @@
                     </p>
                 </div>
                 <div>
-                    <img src="{{ asset('images/lab-photo.jpg') }}" alt="Laboratorium Teknik Sipil" class="rounded-lg shadow-lg w-full h-auto">
+                    <img src="{{ asset('images/lab-photo.jpeg') }}" alt="Laboratorium Teknik Sipil" class="rounded-lg shadow-lg w-full h-auto">
                 </div>
             </div>
         </div>
@@ -49,8 +49,27 @@
                 <h2 class="text-4xl font-bold text-gray-900 mb-4">Visi & Misi</h2>
             </div>
             <div class="space-y-6">
-                <p class="text-lg text-gray-600"><strong>Visi:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore alias enim optio!.</p>
-                <p class="text-lg text-gray-600"><strong>Misi:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sint ducimus pariatur optio!</p>
+                <p class="text-lg text-gray-600"><strong>Visi:</strong></p>
+                <p class="text-lg text-gray-600 mt-1">
+                    Menjadi laboratorium Teknik Sipil yang bermutu dan maju
+                    untuk mendukung kegiatan akademik, penelitian dan
+                    industri konstruksi sehingga dapat berkontribusi bagi
+                    pembangunan bangsa dan negara.
+                </p>
+                <p class="text-lg text-gray-600"><strong>Misi:</strong>
+                    <ol class="text-lg text-gray-600" start="1">
+                        <li>
+                            1. Memberikan pelayanan praktikum kepada mahasiswa
+                        </li>
+                        <li>
+                            2. Memberikan pelayanan penelitian kepada dosen dan mahasiswa
+                        </li>
+                        <li>
+                            3. Memberi pelayanan pengujian kepada kontraktor dan
+                            konsultan
+                        </li>
+                    </ol>
+                </p>
             </div>
         </div>
     </section>
